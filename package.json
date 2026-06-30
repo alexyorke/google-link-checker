@@ -22,10 +22,10 @@
   },
   "homepage": "",
   "engines": {
-    "node": "5.1.1"
+    "node": ">=14.17.0"
   },
   "dependencies": {
-    "botkit": "0.2.2",
+    "botkit": "4.15.0",
     "botkit-storage-mongo": "^1.0.2",
     "dotenv": "^17.4.2",
     "get-urls": "^12.1.0",
