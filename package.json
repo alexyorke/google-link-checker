@@ -26,9 +26,10 @@
   },
   "dependencies": {
     "botkit": "0.2.2",
+    "botkit-storage-mongo": "^1.0.2",
     "dotenv": "^17.4.2",
     "get-urls": "^12.1.0",
-    "mongodb": "^3.6.1",
+    "mongodb": "^7.4.0",
     "request": "^2.88.0"
   }
 }
