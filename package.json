@@ -22,7 +22,7 @@
   },
   "homepage": "",
   "engines": {
-    "node": "5.1.1"
+    "node": ">=14.17.0"
   },
   "dependencies": {
     "botkit": "4.15.0",
